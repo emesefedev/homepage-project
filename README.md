@@ -8,6 +8,7 @@
 ````
 
 🎯[Assignment](https://www.theodinproject.com/lessons/node-path-advanced-html-and-css-homepage)
+
 👩🏽‍💻[Result](emesefedev.github.io/homepage-project)
 
 ---
